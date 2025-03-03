@@ -1,11 +1,11 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "Recipe applicatioin",
-  "default": "index.html",
+  "description": "Recipe application",
+  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "parcel build index.html"
   },
   "author": "Veljko Miljkovic",
   "license": "ISC",
