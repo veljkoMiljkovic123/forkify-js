@@ -108,7 +108,7 @@
 124C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\pad-start.js133854691806532952 0
 162C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133854691713029552 0
 146C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133854691703953003 0
-89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package.json133852455839647281 0
+89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package.json133854699074335885 0
 118C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\manipulation.js133854691703932994 0
 109C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\esm133854691712034849 1
 123C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\values.js133854691836562882 0
