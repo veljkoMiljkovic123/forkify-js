@@ -4,7 +4,7 @@
   "description": "Recipe application",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "node_modules/.bin/parcel build index.html --dist-dir ./dist"
   },
   "author": "Veljko Miljkovic",
   "license": "ISC",

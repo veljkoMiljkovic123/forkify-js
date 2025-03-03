@@ -18,7 +18,7 @@
 120C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\imulh.js133854691785693772 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\DM.js133854691734778398 0
 123C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node\targets.js.flow133854691699112631 0
-89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules133854701700943871 1
+89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules133854707208686568 1
 125C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\get-iterator-method.js133854691781476790 0
 124C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\src\openInBrowser.js133854691714924947 0
 140C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133854691720317316 0
@@ -64,7 +64,7 @@
 114C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\esm\_get.js133854691725077682 0
 117C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\utility-types\dist\index.js133854691690962066 0
 111C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\regexp133854691828542285 1
-95C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@lmdb133854691857716549 1
+95C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@lmdb133854707208716561 1
 105C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\semver\index.js133854691708062607 0
 94C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\src\img\icons.svg132886955210000000 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\iterator\concat.js133854691736138493 0
@@ -84,7 +84,7 @@
 118C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\legacy.d.ts.map133854691711278249 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\node\common133854701694920024 1
 123C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133854691721917441 0
-108C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json133854701703610775 0
+108C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json133854707210821680 0
 124C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Number.js133854701699712307 0
 162C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133854691713029552 0
 146C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133854691703953003 0
@@ -94,10 +94,10 @@
 138C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-initial-letter.js133854691727697869 0
 124C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\InternalConfig.js133854691718817218 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\parser\sequence.js133854701700095675 0
-94C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package-lock.json133854701702728190 0
+94C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package-lock.json133854707209971596 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\SB.js133854691754319236 0
 115C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\general.js133854701693718104 0
-89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package.json133854701701028526 0
+89C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\package.json133854706678622135 0
 123C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\values.js133854691836562882 0
 118C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\domutils\lib\manipulation.js133854691703932994 0
 109C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\esm133854691712034849 1
@@ -294,7 +294,7 @@
 116C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\value\list.d.ts133854691720777369 0
 117C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\instance\trim.js133854691831822513 0
 113C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\picocolors\package.json133854691689751935 0
-94C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@swc133854691857746547 1
+94C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@swc133854707208696581 1
 98C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml133854691694352278 1
 112C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\timsort\src\timsort.js133854691701282800 0
 111C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\has-flag\package.json133854691676635525 0
@@ -325,11 +325,11 @@
 118C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\iterator\index.js133854691788473969 0
 117C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss-win32-x64-msvc133854691689351906 1
 128C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_using_ctx\package.json133854691739385634 0
-107C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@msgpackr-extract133854691857706543 1
+107C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@msgpackr-extract133854707208716561 1
 132C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\filter-reject.js133854691772975466 0
 115C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\semver\functions\major.js133854691709369140 0
 130C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\copy-within.js133854691740754231 0
-97C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel133854691857736546 1
+97C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel133854707208716561 1
 110C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css133854691691442066 1
 98C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\argparse133854691701042770 1
 140C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133854691693442213 0
@@ -1553,7 +1553,7 @@
 119C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\source-map.d.ts133854691707583260 0
 125C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.every.js133854691766532910 0
 103C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\bin\svgo133854701693108383 0
-117C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\node_modules\commander133854701691523187 1
+117C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\node_modules\commander133854701693482373 1
 145C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133854691715537278 0
 132C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\reduce-right.js133854691810071300 0
 130C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\node_modules\commander\CHANGELOG.md133854701693308576 0
@@ -1796,7 +1796,7 @@
 106C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\chalk\index.d.ts133854691699252645 0
 115C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\semver\functions\patch.js133854691711362783 0
 120C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\semver\functions\prerelease.js133854691711747085 0
-120C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\mdn-data\api133854701693038359 1
+120C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\mdn-data\api133854701693734667 1
 115C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\readdirp\esm\package.json133854691691332061 0
 114C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\nth-check\lib\parse.d.ts133854701694348625 0
 115C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\semver\functions\rsort.js133854691712379789 0
@@ -2667,7 +2667,7 @@
 109C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\micromatch\index.js133854691682551419 0
 129C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\gyroscope.js133854691742197619 0
 121C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\array-with.js133854691721837430 0
-102C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\api133854701693011274 1
+102C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\api133854701693752352 1
 138C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures\packages\a133854691712379789 1
 126C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\webusb.js133854691762554772 0
 107C:\Users\Veljko\Desktop\complete-javascript-course-master\18-forkify\starter\node_modules\mdn-data\index.js133854701693190463 0
